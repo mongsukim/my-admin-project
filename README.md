@@ -2,6 +2,13 @@
 
 관리자 대시보드 프로젝트
 
+
+![React](https://img.shields.io/badge/React-18.3.1-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.6.3-blue)
+![Vite](https://img.shields.io/badge/Vite-6.0.1-purple)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-5.22.5-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 ## 📚 기술 스택
 
 | 카테고리 | 기술 스택 | 용도/이유 |
@@ -32,6 +39,7 @@ npm install
 
 프로젝트 구조 
 
+```markdown
 my-admin-project/
 ├── public/              # 정적 파일
 ├── src/
@@ -49,24 +57,7 @@ my-admin-project/
 ├── package.json
 ├── tsconfig.json       # TypeScript 설정
 └── vite.config.ts      # Vite 설정
+```
 
 
-
-### 스크린샷 섹션
-```markdown
-## 📸 스크린샷
-
-### 대시보드
-![Dashboard](./docs/images/dashboard.png)
-
-### 로그인
-![Login](./docs/images/login.png)
-
-
-# Admin Dashboard
-
-![React](https://img.shields.io/badge/React-18.3.1-blue)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.6.3-blue)
-![Vite](https://img.shields.io/badge/Vite-6.0.1-purple)
-![Ant Design](https://img.shields.io/badge/Ant%20Design-5.22.5-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
+  
